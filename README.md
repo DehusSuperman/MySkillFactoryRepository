@@ -23,3 +23,9 @@
 **MySkillFactoryRepository**
 * MySkillFactoryRepository
 1. MySkillFactoryRepository [MySkillFactoryRepository] (www.delfi.lv)
+
+
+## Ko mums vel vajag zinat?
+1. A
+2. B
+3. C
