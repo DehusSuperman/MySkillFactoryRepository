@@ -16,3 +16,10 @@
 1. CHANGES
 2. CHANGES
 3. CHANGES
+
+# MySkillFactoryRepository
+## MySkillFactoryRepository
+*MySkillFactoryRepository*
+**MySkillFactoryRepository**
+* MySkillFactoryRepository
+1. MySkillFactoryRepository [MySkillFactoryRepository] (www.delfi.lv)
